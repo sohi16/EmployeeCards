@@ -1,0 +1,50 @@
+{
+    "managers": [
+      {
+        "id": 1,
+        "name": "Mahesh P"
+      },
+      {
+        "id": 2,
+        "name": "Rahul C"
+      },
+      {
+        "id": 3,
+        "name": "Vidya D"
+      },
+      {
+        "id": 4,
+        "name": "Karan M"
+      },
+      {
+        "id": 5,
+        "name": "Nikhil S"
+      },
+      {
+        "id": 6,
+        "name": "Maya M"
+      },
+      {
+        "id": 7,
+        "name": "Kavita L"
+      },
+      {
+        "id": 8,
+        "name": "Shruti G"
+      },
+      {
+        "id": 9,
+        "name": "Sahil N"
+      },
+      {
+        "id": 10,
+        "name": "Payal B"
+      },
+      {
+        "id": 11,
+        "name": "Akash J"
+      }
+     
+    ]
+  }
+  
